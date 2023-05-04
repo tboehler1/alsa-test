@@ -2,4 +2,4 @@
 
 ## Dependencies
 
-- `libasound` (Debian: `libasound2`)
+- `libasound` (Debian: `libasound2-dev`)
