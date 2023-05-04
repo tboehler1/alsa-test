@@ -1,0 +1,10 @@
+[package]
+name = "alsa-test"
+version = "0.1.0"
+edition = "2021"
+
+[profile.release]
+strip = true
+
+[dependencies]
+alsa = "0.7.0"
